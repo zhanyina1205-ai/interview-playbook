@@ -1,4 +1,4 @@
-const CACHE = 'interview-playbook-4d9aa53f1922';
+const CACHE = 'interview-playbook-22fe093bae15';
 const ROOT = new URL('./', self.location.href);
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {
